@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.yg0585.libs.TestLibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-26T07:15:49" hostname="DESKTOP-L5M9URE" time="0.046">
+  <properties/>
+  <testcase name="test()" classname="io.github.yg0585.libs.TestLibraryTest" time="0.046"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

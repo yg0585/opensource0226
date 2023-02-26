@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"io.github.yg0585.libs","c":"TestLibrary","l":"helloworld(boolean)"},{"p":"io.github.yg0585","c":"Main","l":"Main()","url":"%3Cinit%3E()"},{"p":"io.github.yg0585","c":"Main","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"io.github.yg0585.libs","c":"TestLibrary","l":"TestLibrary()","url":"%3Cinit%3E()"}]

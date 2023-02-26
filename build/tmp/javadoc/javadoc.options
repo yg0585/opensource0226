@@ -1,0 +1,9 @@
+-classpath 'C:\\Users\\yg\\Desktop\\glory\\study\\Opensource\\build\\classes\\java\\main;C:\\Users\\yg\\Desktop\\glory\\study\\Opensource\\build\\resources\\main'
+-d 'C:\\Users\\yg\\Desktop\\glory\\study\\Opensource\\build\\docs\\javadoc'
+-doctitle 'Opensource 1.0-SNAPSHOT API'
+-html5 
+-notimestamp 
+-quiet 
+-windowtitle 'Opensource 1.0-SNAPSHOT API'
+'C:\\Users\\yg\\Desktop\\glory\\study\\Opensource\\src\\main\\java\\io\\github\\yg0585\\libs\\TestLibrary.java'
+'C:\\Users\\yg\\Desktop\\glory\\study\\Opensource\\src\\main\\java\\io\\github\\yg0585\\Main.java'

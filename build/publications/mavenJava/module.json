@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.yg0585",
+    "module": "opensource0226",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "opensource0226-1.0-SNAPSHOT.jar",
+          "url": "opensource0226-1.0-SNAPSHOT.jar",
+          "size": 1628,
+          "sha512": "48a64e7b0fa22eeb11b11289aeef773c634562ebfa7b62c8467ee4f65c549e7e4dffaf745a34f2339c5d1c49b27e4389bb7cfa6589ded96851f05483371c113a",
+          "sha256": "90c405bd160d2e1f0e16cb29b9fd641db4010cf8704ef0859e6e25f88f9cf806",
+          "sha1": "aa7aa171907454e68503867d65025315b406bff6",
+          "md5": "dcbe891c6fc158116d4850165bffa148"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "opensource0226-1.0-SNAPSHOT.jar",
+          "url": "opensource0226-1.0-SNAPSHOT.jar",
+          "size": 1628,
+          "sha512": "48a64e7b0fa22eeb11b11289aeef773c634562ebfa7b62c8467ee4f65c549e7e4dffaf745a34f2339c5d1c49b27e4389bb7cfa6589ded96851f05483371c113a",
+          "sha256": "90c405bd160d2e1f0e16cb29b9fd641db4010cf8704ef0859e6e25f88f9cf806",
+          "sha1": "aa7aa171907454e68503867d65025315b406bff6",
+          "md5": "dcbe891c6fc158116d4850165bffa148"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "opensource0226-1.0-SNAPSHOT-javadoc.jar",
+          "url": "opensource0226-1.0-SNAPSHOT-javadoc.jar",
+          "size": 288800,
+          "sha512": "6df9fb194f20f5f59442543880206ec0be5a3d426cfb1deda97a5f503412fdabc47c42d304f979711ecf78421ccbbf751f88b507db1a6859a4a3b971125184a2",
+          "sha256": "f20d98a4923a06127ed2518884907385a787717ed7cf2203d61a5986355b307c",
+          "sha1": "9cb0e58c1431a3e61a4235e7e6f3f1df9c3d2c1c",
+          "md5": "60016fd79e89e80c874affd4c4bb3787"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "opensource0226-1.0-SNAPSHOT-sources.jar",
+          "url": "opensource0226-1.0-SNAPSHOT-sources.jar",
+          "size": 1215,
+          "sha512": "9d609a2a42d3d031a4523741c504273e917fd9d29abb945735a9cf68b7b08f10c9c81ba0f89904e75279711e3321c0f0d26d600b185f2f5df8b77f80ebea93d9",
+          "sha256": "7237589e51aa41c05b94dd4367aa9673e6417149ae6278671cfebdf97321a7e9",
+          "sha1": "6cec617f84fd20b9fad8b87fdf9dfa8b7f12bb72",
+          "md5": "48f21d4a50e7a034d54df3bffec076fb"
+        }
+      ]
+    }
+  ]
+}
